@@ -9,3 +9,6 @@ It bases on the List&Watch mechanism of Kubernetes to reflects latest status of 
 - Visual account book of k8s object 
 - Event based analysis for control plane health and performance
 - Bin packing and utilization dashboard
+
+## EBA 
+use event + FSM (eFSM) to analysis creation and termination of Kubernetes resource. 
